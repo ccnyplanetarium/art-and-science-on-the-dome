@@ -10,8 +10,10 @@ Processing is a great way to do some creative coding and then map it the dome. S
 
 The javascript library P5.js can also be used be used to make dome visualizations. 
 
-Here's a fun one: The Magic Flute 1815 stage set turned into a fulldome fisheye view.
+Here's a fun one: The Magic Flute 1815 stage set turned into a [fulldome fisheye view](p5-to-dome/magic-flute).
 
 ![Fulldome Magic Flute](p5-to-dome/magic-flute/img/fisheye-magic-flute.jpg)
+
+See it live here [Magic Flute FullDome Set](https://ccnyplanetarium.org/art-and-science-on-the-dome/p5-to-dome/magic-flute/)
 
 
